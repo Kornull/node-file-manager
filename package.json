@@ -1,0 +1,13 @@
+{
+    "name": "node-file-manager",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "keywords": [],
+    "author": "Kornull",
+    "license": "ISC"
+}
